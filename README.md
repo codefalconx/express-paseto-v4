@@ -103,12 +103,13 @@ You’ll see:
 {
   "valid": true,
   "payload": {
-    "userId": "123",
+    "userId": 123,
     "role": "admin",
-    "issuedAt": "2025-12-29T12:00:00.000Z",
-    "iss": "my-app",
+    "issuedAt": "2025-12-28T21:41:15.485Z",
+    "iat": "2025-12-28T21:41:15.501Z",
+    "exp": "2025-12-28T22:41:15.501Z",
     "aud": "users",
-    "exp": "2025-12-29T13:00:00.000Z"
+    "iss": "my-app"
   }
 }
 ```

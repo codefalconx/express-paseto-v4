@@ -159,4 +159,4 @@ You’ll see:
 
 ## 📄 License
 
-MIT License © 2025 codefalconx
+Apache License Version 2.0 © 2025 codefalconx
